@@ -1,4 +1,4 @@
-# Hey, je suis doge (dowoge).
+# Allo, je suis doge (dowoge).
 
 I'm a highschool student who likes computer things. <!-- And I'm planning to die! --> I come from Quebec, Canada, I taught myself Lua.
 ## Some tools and langauges I use:
