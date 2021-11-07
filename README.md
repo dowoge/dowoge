@@ -1,4 +1,4 @@
-## allo, je suis doge.
+## hello i'm doge
 
 i'm a student who likes computer things, i taught myself lua, i come from quebec, canada
 
