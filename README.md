@@ -9,4 +9,4 @@ i make stuff sometimes
 
 ### some tings im learning:
 
-![](https://shields.io/badge/Typescript-05122A?logo=typescript&style=for-the-badge) ![](https://shields.io/badge/Rust-05122A?logo=rust&logoColor=e33c24&style=for-the-badge) ![](https://shields.io/badge/Git-05122A?logo=git&style=for-the-badge)
+![](https://shields.io/badge/Rust-05122A?logo=rust&logoColor=e33c24&style=for-the-badge)
